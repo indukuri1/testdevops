@@ -1,2 +1,2 @@
 # testdevops
-Testing cloudguru
+This is a test for acloud guru training
